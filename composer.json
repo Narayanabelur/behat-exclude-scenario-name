@@ -11,8 +11,7 @@
     ],
     "require": {
         "php": "^7.1",
-
-        "behat/behat": "^3.1",        
+        "behat/behat": "^3.1"        
     },    
     "autoload": {
         "psr-4": { "Monash\\BehatExcludeScenarioName\\": "src/" }
