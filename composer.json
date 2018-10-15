@@ -2,7 +2,7 @@
     "name": "monash/behat-exclude-scenario-name",
     "description": "Allows to exclude scenarios in feature file.",
     "license": "AGPL-3.0-or-later",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authors": [
         {
             "name": "Narayan",
